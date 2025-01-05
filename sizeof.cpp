@@ -1,6 +1,3 @@
-blablabla:
-<<<<<<< HEAD
+blablab
 
-//dfdf
-=======
->>>>>>> feature02
+fgfg
